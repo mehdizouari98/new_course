@@ -1,2 +1,3 @@
 # new_course
-zouarischool
+zouarischool 
+## project notes
